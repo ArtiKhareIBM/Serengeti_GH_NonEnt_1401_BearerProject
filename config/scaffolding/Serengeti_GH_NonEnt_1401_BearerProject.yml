@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Serengeti_GH_NonEnt_1401_BearerProject
+  gitServerName: srcGithubCtrl_Arti_bearer
+  gitUrl: https://github.com/ArtiKhareIBM
+  gitUsername: ArtiKhareIBM
+  gitBranch: main
